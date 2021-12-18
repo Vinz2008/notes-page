@@ -3,7 +3,7 @@
     "name": "Note taking app",
     "icons": [
       {
-        "src": "/img/icon.png",
+        "src": "https://raw.githubusercontent.com/Vinz2008/notes-page/main/img/icon.png",
         "type": "image/png",
         "sizes": "1024x1024"
       }],
