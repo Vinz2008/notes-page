@@ -3,12 +3,12 @@ self.addEventListener('install', function(e) {
     e.waitUntil(
       caches.open('note').then(function(cache) {
         return cache.addAll([
-          '/',
-          '/index.html',
-          '/index.html?homescreen=1',
-          '/?homescreen=1',
-          '/style.css',
-          '/main.js',
+          '/notes-page/',
+          '/notes-page/index.html',
+          '/notes-page/index.html?homescreen=1',
+          '/notes-page/?homescreen=1',
+          '/notes-page/style.css',
+          '/notes-page/main.js',
           'https://fonts.googleapis.com/css?family=DM+Sans'
         ]);
       })
