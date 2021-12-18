@@ -1,0 +1,15 @@
+{
+    "short_name": "Notes",
+    "name": "Note taking app",
+    "icons": [
+      {
+        "src": "/img/icon.png",
+        "type": "image/png",
+        "sizes": "1024x1024"
+      }],
+    "start_url": "/?source=pwa",
+    "background_color": "#FFFFFF",
+    "display": "standalone",
+    "scope": "/",
+    "description": "Note taking app"
+  }

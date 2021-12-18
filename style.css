@@ -1,0 +1,60 @@
+body {
+    justify-content: center;
+    align-items: center;
+    font-family: "DM Sans", normal;
+    background-color: white;
+    color: white;
+
+}
+
+#notesoutputdiv {
+    margin-left: 20em;
+    margin-right: 20em;
+}
+h1 {
+    color: black;
+    font-family: "Inter", bold ;
+    justify-content: center;
+    align-items: center;
+    /*margin-left: 20em;
+    margin-right: 20em;*/
+    font-size: 6em;
+    text-align: center;
+}
+
+
+ul {
+    list-style-type:circle;
+    margin-left: 19em;
+    margin-right: 2em;
+    font-size: 125%;
+    color: black;
+    
+}
+
+#inputAndButton {
+    margin-left: 40em;
+    margin-right: 38em;
+
+}
+
+button {
+    font-family: "DM Sans", bold;
+    display: inline-block;
+    height:4em;
+    width:8em;
+    border: none;
+    color: white;
+    border-radius: 50px;
+    cursor: pointer;
+    background-color: black;
+}
+
+input {
+    font-family: "DM Sans", normal;
+}
+
+#Clear {
+    margin-left: 53em;
+    margin-right: 38em;
+}
