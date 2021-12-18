@@ -8,7 +8,9 @@ self.addEventListener('install', function(e) {
           '/index.html?homescreen=1',
           '/?homescreen=1',
           '/style.css',
-          '/main.js'
+          '/main.js',
+          'https://fonts.googleapis.com/css?family=DM+Sans',
+          'https://fonts.googleapis.com/css?family=Inter'
         ]);
       })
     );

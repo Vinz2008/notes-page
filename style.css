@@ -52,6 +52,8 @@ button {
 
 input {
     font-family: "DM Sans", normal;
+    height: 1.9em;
+    width: 8em;
 }
 
 #Clear {
